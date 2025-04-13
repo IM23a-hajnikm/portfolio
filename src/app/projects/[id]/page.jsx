@@ -78,7 +78,7 @@ const projects = {
     description: 'A personal portfolio website built with Next.js and Tailwind CSS to showcase projects and skills.',
     longDescription: 'This portfolio website was built using Next.js and Tailwind CSS. It features a responsive design, dark mode support, and optimized performance. The site includes sections for showcasing projects, skills, and contact information.',
     problem: 'I needed a professional online presence to showcase my work and skills to potential clients and employers.',
-    solution: 'I designed and developed a personal portfolio website using Next.js and Tailwind CSS. The site features a clean, modern design with sections for projects, skills, and contact information. It's fully responsive and optimized for performance.',
+    solution: 'I designed and developed a personal portfolio website using Next.js and Tailwind CSS. The site features a clean, modern design with sections for projects, skills, and contact information. It\'s fully responsive and optimized for performance.',
     features: [
       'Responsive design for all device sizes',
       'Project showcase with detailed case studies',
