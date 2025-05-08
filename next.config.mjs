@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Disable tracing to avoid permission issues during build
-  output: 'standalone',
-  distDir: 'build',
-  outputFileTracing: false
+  // Use standalone output for better optimization
+  output: 'standalone'
+  // If you want a custom build directory, uncomment the next line:
+  // distDir: 'build'
 };
 
 export default nextConfig;
